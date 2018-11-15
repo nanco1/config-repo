@@ -17,8 +17,8 @@ spring:
 env:
   test1
 girl:
-  name: mo11
-  age: 12
+  name: mo11123
+  age: 12123
 feign:
   client:
     config:
