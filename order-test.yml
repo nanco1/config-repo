@@ -15,10 +15,10 @@ spring:
     host: 127.0.0.1
     port: 6379
 env:
-  test12212
+  test1
 girl:
-  name: mo112
-  age: 171112122
+  name: mo11
+  age: 12
 feign:
   client:
     config:
