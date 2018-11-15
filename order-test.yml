@@ -15,7 +15,7 @@ spring:
     host: 127.0.0.1
     port: 6379
 env:
-  test131211
+  test131211212
 girl:
   name: mo
   age: 17
